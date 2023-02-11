@@ -17,4 +17,4 @@
 4) GitHub.
 
 ## Архитектура аналитического решения
-[Решение](https://github.com/ZoyaBolsheshapova/DE-101/blob/main/Module1/Data_Layers.png)
+![Решение](https://github.com/ZoyaBolsheshapova/DE-101/blob/main/Module1/Data_Layers.png)
