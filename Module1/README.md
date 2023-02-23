@@ -13,13 +13,13 @@
 ## Инструменты
 1) Git;
 2) draw.io;
-3) exsel;
+3) excel;
 4) GitHub.
 
 ## Архитектура аналитического решения
 ![Решение](https://github.com/ZoyaBolsheshapova/DE-101/blob/main/Module1/Data_Layers.png)
 
-## Аналитика в Exsel
+## Аналитика в Exсel
 [Module1_2.xlsm](https://github.com/ZoyaBolsheshapova/DE-101/blob/main/Module1/Module1_2.xlsm)
 
 ![Решение](https://github.com/ZoyaBolsheshapova/DE-101/blob/main/Module1/Module1_2.png)
