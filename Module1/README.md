@@ -22,4 +22,4 @@
 ## Аналитика в Exsel
 [Module1_2.xlsm](https://github.com/ZoyaBolsheshapova/DE-101/blob/main/Module1/Module1_2.xlsm)
 
-![Решение](https://github.com/ZoyaBolsheshapova/DE-101/blob/main/Module1/Module1_2.pdf)
+![Решение](https://github.com/ZoyaBolsheshapova/DE-101/blob/main/Module1/Module1_2.png)
